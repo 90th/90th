@@ -14,7 +14,7 @@ I'm **Robert**, a self-taught C/C#/C++ developer from the great white north. I'm
 
 ### Looking for Work
 
-💼 Actively seeking new challenges and opportunities. If you have any interesting projects or if you're hiring, I'd love to connect and explore potential collaborations.
+💼 If you have any interesting projects or if you're hiring, I'd love to connect and explore potential collaborations.
 
 
 ### Contact 
