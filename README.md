@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="left" src="https://i.imgur.com/vjWY6q6.png" width="90">
 
-<!--
-**90th/90th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there!
 
-Here are some ideas to get you started:
+I'm **Robert**, a self-taught C/C#/C++ developer from the great white north. I'm passionate about software development & cyber security. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://komarev.com/ghpvc/?username=90th&color=1c1b1b)
+### Main Langauges
+- C
+- C#
+- C++
+  
+
+### Looking for Work
+
+💼 Actively seeking new challenges and opportunities. If you have any interesting projects or if you're hiring, I'd love to connect and explore potential collaborations.
+
+
+### Contact 
+- 📧 Email: ninetieth@riseup.net
