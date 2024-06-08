@@ -22,16 +22,3 @@ I'm **Robert**, a self-taught C/C#/C++ developer from the great white north. I'm
 
 ### Contact 
 - 📧 Email: ninetieth@riseup.net
-
-
-```math
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/90th/90th/main/matrix.gif'); "]{}
-
-\mmlToken{ms}[fontfamily="
-font-family: goombafont;
-color:red;
-pointer-events: none;
-position: fixed;
-inset: 0;
-backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-"]{}
