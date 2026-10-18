@@ -8,4 +8,4 @@ I'm **Robert**, a full-stack hobbyist C/C#/C++ developer from the great white no
 
 ### Contact 
 - Email: `ninetieth <at> riseup.net`
-- Discord: `@distortions`
+- Discord: `@distortions.`
